@@ -1,4 +1,4 @@
-[![Cross Bible banner](public/CrossBible_Wordmark-Green.png)](https://crossbible.com)
+[![Cross Bible banner](https://crossbible.com/CrossBible_Wordmark-Green.png)](https://crossbible.com)
 
 # Cross Bible
 
