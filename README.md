@@ -25,15 +25,13 @@ Our web-based Bible software is intended to bolster worldwide engagement with Sc
 
 ## 🖥️ For Developers
 
-At Cross Bible, we're on a mission to revolutionize Bible study through technology. By integrating advanced web technologies like AWS, ECS, Nuxt, Vue, Laravel, TypeScript, and MySQL, we aim to create an accessible, engaging platform. We invite developers passionate about using their skills for a greater purpose to join us. Your contributions will support a non-denominational project focused on making scripture study more interactive and meaningful.
+We're interested in teaming up with developers who are proficient in any aspect of our tech stack. We work with people who share our goal of developing a wonderful user experience, leveraging technology to enhance Bible study. We are a non-denominational Christian organization that does not require any religious test or oath from collaborators who are dedicated to helping us improve the Bible study experience. We're open to working with people from a variety of backgrounds, nationalities, ethnicities, languages, genders, and religious traditions.
 
-We uphold strict data privacy standards and legal compliance to ensure our platform remains secure and reliable. Join us in this journey of learning, discovery, and technological innovation to make the Bible freely accessible to all.
+We're actively raising funds grow our team. So, even if we don't have a position for you yet, we love making contacts in the developer community. 
 
-For collaboration or more info, reach out here.
+If you're interested in applying to work with us, [reach out to us](mailto:info@crossbible.com).
 
-## 🚀 Favorite Technologies
-
-We're interested in teaming up with developers who are proficient in any aspect of our tech stack. We work with people who share our goal of developing a wonderful user experience, leveraging technology to enhance Bible study. 
+## 🚀 Favorite Technologies 
 
 Our platform thrives on **Amazon Web Services (AWS)**. We love the **Vue.js** and  **Nuxt** ecosystems for their seemless developer experience in both **Javascript** and **TypeScript**. Our **Laravel** framework gives us the reliability of **PHP** for interacting with the Biblical text in our **MySQL** database. And since the Cross Bible prototype was built in **Filemaker Pro**, we love the **Claris** platform for data management, along with **Python** for additional text parsing in multiple languages.
 
