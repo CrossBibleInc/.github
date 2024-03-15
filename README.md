@@ -33,11 +33,11 @@ Our web-based Bible software is intended to bolster worldwide engagement with Sc
 
 ## 🖥️ For Developers
 
-We're interested in teaming up with developers who are proficient in any aspect of our tech stack. We work with people who share our goal of developing a wonderful user experience, leveraging technology to enhance Bible study. We are a non-denominational Christian organization that does not require any religious test or oath from collaborators who are dedicated to helping us improve the Bible study experience. We're open to working with people from a variety of backgrounds, nationalities, ethnicities, languages, genders, and religious traditions.
+We're interested in teaming up with developers who are proficient in any aspect of our tech stack, especially those willing to explore the **Laravel ecosystem** along with us. We work with people who share our goal of developing a wonderful user experience, leveraging technology to enhance Bible study. We are a non-denominational Christian organization that does not require any religious test or oath from collaborators who are dedicated to helping us improve the Bible study experience. We're open to working with people from a variety of backgrounds, nationalities, ethnicities, languages, genders, and religious traditions.
 
-We're actively raising funds grow our team. So, even if we don't have a position for you yet, we love making contacts in the developer community. 
+We're actively raising funds to grow our team. So, even if we don't have a position for you yet, we would still love to connect and geek out. 
 
-If you're interested in applying to work with us, [reach out to us](mailto:info@crossbible.com).
+If you're interested in applying to work with us, [reach out](mailto:info@crossbible.com).
 
 ## 🚀 Favorite Technologies 
 
