@@ -2,6 +2,8 @@
 
 # Cross Bible
 
+📖 An interactive web-based application that enhances the digital Bible study experience.
+
 <p>
     <div>🧩 Our playground:</div>
     <a name="top"></a>
@@ -26,8 +28,6 @@
 </p>
 
 ![Tall Stack](https://github.com/CrossBibleInc/.github/assets/122323267/c33a8e35-eec1-4ec9-ae18-2f815d6a6f4e)
-
-📖 An interactive web-based application that enhances the digital Bible study experience.
 
 ## ✝️ Our Mission
 
