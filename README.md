@@ -6,8 +6,17 @@
     <div>🧩 Our playground:</div>
     <a name="top"></a>
     <div>
+        <!-- Laravel Documentation Link -->
         <a href="https://Laravel.com">
             <img src="https://img.shields.io/badge/Laravel%20Docs-18181B?logo=laravel" alt="Website">
+        </a>
+        <!-- Livewire Documentation Link -->
+        <a href="https://laravel-livewire.com/docs">
+            <img src="https://img.shields.io/badge/Livewire%20Docs-18181B?logo=livewire" alt="Livewire Docs">
+        </a>
+        <!-- Alpine.js Documentation Link -->
+        <a href="https://alpinejs.dev/start">
+            <img src="https://img.shields.io/badge/Alpine.js%20Docs-18181B?logo=alpine.js" alt="Alpine.js Docs">
         </a>
     </div>
 </p>
