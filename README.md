@@ -25,6 +25,8 @@
     </div>
 </p>
 
+![TALL Stack](https://github.com/CrossBibleInc/.github/assets/122323267/6288ac55-b006-42fc-95b8-0a9aff6b5dad)
+
 📖 An interactive web-based application that enhances the digital Bible study experience.
 
 ## ✝️ Our Mission
@@ -41,6 +43,6 @@ If you're interested in applying to work with us, [reach out](mailto:info@crossb
 
 ## 🚀 Favorite Technologies 
 
-Our platform thrives on **Amazon Web Services (AWS)**. We love the **Laravel** ecosystems for their seemless developer experience in **PHP** and **Alpine.js** with **LiveWire**. We leverage Laravel Vapor for severless deployment on **AWS Lambda** and **Cloudfront (CDN)**. The **Laravel** framework gives us the reliability of **PHP** for interacting with the Biblical text in our **PostgreSQL** database. And since the Cross Bible prototype was built in **Filemaker Pro**, we love the **Claris** platform for data management, along with **Python** for additional text parsing in multiple languages.
+Our platform is integrated with **Amazon Web Services (AWS)**. We leverage **Laravel Vapor** for severless deployment on **AWS Lambda** and **Cloudfront (CDN)**. We love the **Laravel** ecosystems for their seemless, full-stack developer experience with Laravel's **Blade Templates** on the front end with **LiveWire** and **Apline.js** (the TALL stack). The **Laravel** framework gives us the reliability of **PHP** for interacting with the Biblical text in our **PostgreSQL** database. We also love the **Claris** (Filemaker Pro) platform for data management, along with **Python** for text parsing.
 
 Join us in shaping the future of Bible study!
