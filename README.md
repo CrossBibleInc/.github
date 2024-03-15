@@ -6,14 +6,9 @@
     <div>🧩 Our playground:</div>
     <a name="top"></a>
     <div>
-        <a href="https://nuxt.com">
-            <img src="https://img.shields.io/badge/Nuxt%20Docs-18181B?logo=nuxt.js" alt="Website">
+        <a href="https://Laravel.com">
+            <img src="https://img.shields.io/badge/Laravel%20Docs-18181B?logo=laravel" alt="Website">
         </a>
-        <a href="https://vuejs.org/">
-            <img src="https://img.shields.io/badge/Vue%203%20Docs-4FC08D?logo=vue.js" alt="Vue 3 Docs">
-        </a>
-        <a href="https://www.docker.com/">
-            <img src="https://img.shields.io/badge/Docker%20Docs-2496ED?logo=docker" alt="Docker Docs">
     </div>
 </p>
 
@@ -33,6 +28,6 @@ If you're interested in applying to work with us, [reach out to us](mailto:info@
 
 ## 🚀 Favorite Technologies 
 
-Our platform thrives on **Amazon Web Services (AWS)**. We love the **Vue.js** and  **Nuxt** ecosystems for their seemless developer experience in both **Javascript** and **TypeScript**. Our **Laravel** framework gives us the reliability of **PHP** for interacting with the Biblical text in our **MySQL** database. And since the Cross Bible prototype was built in **Filemaker Pro**, we love the **Claris** platform for data management, along with **Python** for additional text parsing in multiple languages.
+Our platform thrives on **Amazon Web Services (AWS)**. We love the **Laravel** ecosystems for their seemless developer experience in **PHP** and **Alpine.js** with **LiveWire**. We leverage Laravel Vapor for severless deployment on **AWS Lambda** and **Cloudfront (CDN)**. The **Laravel** framework gives us the reliability of **PHP** for interacting with the Biblical text in our **PostgreSQL** database. And since the Cross Bible prototype was built in **Filemaker Pro**, we love the **Claris** platform for data management, along with **Python** for additional text parsing in multiple languages.
 
 Join us in shaping the future of Bible study!
