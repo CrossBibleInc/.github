@@ -4,9 +4,10 @@
 
 📖 An interactive web-based application that enhances the digital Bible study experience.
 
+![Tall Stack](https://github.com/CrossBibleInc/.github/assets/122323267/c33a8e35-eec1-4ec9-ae18-2f815d6a6f4e)
+
 <p>
     <div>🧩 Our playground:</div>
-    <img![Tall Stack](https://github.com/CrossBibleInc/.github/assets/122323267/c33a8e35-eec1-4ec9-ae18-2f815d6a6f4e)></img>
     <a name="top"></a>
     <div>
         <!-- Laravel Documentation Link -->
