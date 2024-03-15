@@ -6,6 +6,7 @@
 
 <p>
     <div>🧩 Our playground:</div>
+    ![Tall Stack](https://github.com/CrossBibleInc/.github/assets/122323267/c33a8e35-eec1-4ec9-ae18-2f815d6a6f4e)
     <a name="top"></a>
     <div>
         <!-- Laravel Documentation Link -->
@@ -26,8 +27,6 @@
         </a>
     </div>
 </p>
-
-![Tall Stack](https://github.com/CrossBibleInc/.github/assets/122323267/c33a8e35-eec1-4ec9-ae18-2f815d6a6f4e)
 
 ## ✝️ Our Mission
 
