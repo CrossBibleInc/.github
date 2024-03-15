@@ -18,6 +18,10 @@
         <a href="https://alpinejs.dev/start">
             <img src="https://img.shields.io/badge/Alpine.js%20Docs-18181B?logo=alpine.js" alt="Alpine.js Docs">
         </a>
+        <!-- PostgreSQL Documentation Link -->
+        <a href="https://www.postgresql.org/docs/">
+            <img src="https://img.shields.io/badge/PostgreSQL%20Docs-18181B?logo=postgresql" alt="PostgreSQL Docs">
+        </a>
     </div>
 </p>
 
