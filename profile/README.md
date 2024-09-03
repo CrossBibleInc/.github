@@ -44,7 +44,7 @@ If you're interested in applying to work with us, [reach out](mailto:info@crossb
 
 ## 🚀 Favorite Technologies 
 
-Our platform is integrated with **Amazon Web Services (AWS)**. We leverage **Laravel Vapor** for severless deployment on **AWS Lambda** and **Cloudfront (CDN)**. We love the **Laravel** ecosystems for their seemless, full-stack developer experience with Laravel's **Blade Templates** on the front end with **LiveWire** and **Apline.js** (the TALL stack). The **Laravel** framework gives us the reliability of **PHP** for interacting with the Biblical text in our **PostgreSQL** database. We also love the **Claris** (Filemaker Pro) platform for data management, along with **Python** for text parsing.
+Our platform is integrated with **Amazon Web Services (AWS)**. We leverage **Laravel Vapor** for severless deployment on **AWS Lambda** and **Cloudfront (CDN)**. We love the **Laravel** ecosystems for their seemless, full-stack developer experience with Laravel's **Blade Templates** on the front end with **LiveWire** and **Apline.js** (the TALL stack). The **Laravel** framework gives us the reliability of **PHP** for interacting with the Biblical text in our **PostgreSQL** database. We also love the **Claris** (Filemaker Pro) platform for quickly building custom solutions for data management.
 
 ![TALL Stack](https://github.com/CrossBibleInc/.github/assets/122323267/6288ac55-b006-42fc-95b8-0a9aff6b5dad)
 
